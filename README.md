@@ -32,6 +32,7 @@ This project demonstrates a simple analog **Li-Fi (Light Fidelity)** system usin
 
 ## 📸 Images & Demo
 - Circuit diagram for short distance communication
+- 
   ![image](https://github.com/user-attachments/assets/5ee4ca9b-9d19-42af-bd29-10c7b13fd9b4)
 
 
