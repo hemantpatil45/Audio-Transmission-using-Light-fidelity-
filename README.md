@@ -43,4 +43,7 @@ This project demonstrates a simple analog **Li-Fi (Light Fidelity)** system usin
 - Implement the idea in real world scenarios
 
 ## 📬 Contact
+Hemant Maruti Patil
+[LinkedIn Profile ]   ( www.linkedin.com/in/hemantmpatil0103 )  
+
 Open to feedback, improvements, or collaborations on optical DIY projects.
