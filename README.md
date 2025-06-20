@@ -1,4 +1,4 @@
-# DIY Li-Fi Audio Transmission using Laser/Torch and Solar Cell
+# Li-Fi Audio Transmission using Laser/Torch and Solar Cell
 
 This project demonstrates a simple analog **Li-Fi (Light Fidelity)** system using laser light and torch LED to transmit audio over distance using light as the medium.
 
